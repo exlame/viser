@@ -92,8 +92,8 @@ To examine the demos in your local build, open to `demo` directory, and execute
 
 ```shell
 $ git clone https://github.com/viserjs/viser.git
-$ npm run bootstrap
 $ cd ./demo && npm install
+$ npm run bootstrap
 $ npm run start
 ```
 
